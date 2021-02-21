@@ -1,3 +1,6 @@
+The following license applies only to content within this folder and associated
+sub-folders.
+
 CC0 1.0 Universal
 
 Statement of Purpose

@@ -1,0 +1,109 @@
+html {
+   background-image: url(https://media-exp1.licdn.com/dms/image/C5603AQG47sHtV4NgUw/profile-displayphoto-shrink_800_800/0/1541044508366?e=1619654400&v=beta&t=ScVm4g2yDdbQ9ZoliA9a3NNKdAi99tGVJF0qkv8VMG8);
+   font-size: 16pt;
+   background-size: 0.5%;
+}
+
+body {
+   color: lime;
+   font-size: 1em;
+   font-family: "Courier New", monospace;
+   width: 1024px;
+   margin: 0px auto 0px auto;
+}
+
+header {
+   background-image: linear-gradient(135deg, red, purple);
+}
+
+footer {
+   background-image: linear-gradient(green, black, green);
+   filter: drop-shadow(0.3rem 0.3rem 0.3rem #000000);
+   float: left;
+   width: 100%;
+}
+
+section {
+   width: 1000px;
+   background-image: linear-gradient(45deg, crimson, teal);
+   border-width: 12px;
+   border-color: cyan;
+   border-style: inset;
+}
+
+aside {
+   background-image: linear-gradient(black, crimson);
+   width: 100%
+}
+
+h1 {
+   font-size: 2.5em;
+   line-height: 1em;
+   padding: 3rem 3rem 1rem 3rem;
+   margin: 0em;
+   filter: blur(10px);
+}
+
+h2 {
+   font-size: 1.5em;
+   margin: 0em;
+   padding: 1rem;
+}
+
+h3 {
+   font-size: 1.25em; 
+   margin: 0em;
+   padding: 1em;
+}
+
+p {
+   margin: 0em;
+   padding: 0em 1rem 1rem 1rem;
+   text-align: justify;
+}
+
+a {
+   text-decoration: none;
+   color: lime
+}
+
+a:hover {
+   color: lime;
+}
+
+img {
+   width: 7rem;
+   margin: 0em 1rem 0.5rem 0em;
+   float: left;
+   filter: blur(5px);
+}
+
+ul {
+   text-align: justify;
+   list-style-type: upper-roman;
+   list-style-position: inside;
+   margin: 0px;
+   padding: 0px;
+}
+
+.header-tagline {
+   font-style: italic;
+   padding: 0rem 3rem 3rem 3rem;
+}
+
+.sidebar-header {
+   text-align: center;
+   padding: 1em 1em 0.5em 1em;
+}
+
+.footer-links {
+   float: left;
+   margin: 1em;
+}
+
+.copyright {
+   float: right;
+   text-align: right;
+   margin: 1em;
+   filter: blur(3px);
+}
